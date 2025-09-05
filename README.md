@@ -159,7 +159,7 @@ If you want to create an admin user directly, you can include the `role` field i
 
 ---
 
-## 🏆 Bonus Features
+## 🏆 Extra Features
 - Middleware for JWT verification & role checking
 - Secure password hashing with bcrypt
 - Role-based route access
