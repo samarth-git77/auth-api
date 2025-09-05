@@ -18,7 +18,7 @@ This project demonstrates JWT-based authentication, secure password storage with
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/auth-api.git
+   git clone https://github.com/samarth-git77/auth-api.git
    cd auth-api
    ```
 
